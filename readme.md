@@ -26,7 +26,7 @@ Algumas regras:
 - Caso a url esteja fora do ar, avisa por email (ou slack, ou telegram, fique a vontade)
 - A aplicação só deve parar em caso de interrupção manual
 
-Diferencial:
+Diferenciais:
 - Se usar Docker, use Dockerfile
 - Rodar em ambiente Linux Alpine
 - Salvar logs no banco mongo
