@@ -1,4 +1,4 @@
-# Teste de integração
+# Teste de automação
 
 Estamos democratizando a saúde no Brasil, somos apaixonados por inovação. Vem revolucionar o mercado da saúde com a gente!
 
